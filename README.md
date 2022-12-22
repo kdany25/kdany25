@@ -41,22 +41,22 @@
 </p>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40"
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40"
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="40"
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40"
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJs" alt="NestJs" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"
-<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="electron" alt="electron" width="40"
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40"
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original-wordmark.svg" title="electron" alt="electron" width="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" **alt="bash" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="boot" width="40"
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="boot" width="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="Codepen" **alt="pen" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLINT" **alt="linter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
