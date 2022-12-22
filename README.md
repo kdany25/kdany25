@@ -26,7 +26,7 @@
 
 ## 📲 Let's Connect
 
--   Linkdhin: [![Linkedin Badge](https://img.shields.io/badge/-KABALISA%20Dany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/kabalisa-dany-41ab55211/)
+-   LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-KABALISA%20Dany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/kabalisa-dany-41ab55211/)
 -   Email:[kabadany25@gmail.com](kabadany25@gmail.com)
 
 <h2><i>Tech Stack</i></h2>
