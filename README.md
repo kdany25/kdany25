@@ -25,9 +25,9 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdany25&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="kdany25" />
 
 ## 📲 Let's Connect
-
--   LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-KABALISA%20Dany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/kabalisa-dany-41ab55211/)
 -   Email:[kabadany25@gmail.com](kabadany25@gmail.com)
+-   LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-KABALISA%20Dany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/kabalisa-dany-41ab55211/)
+
 
 <h2><i>Tech Stack</i></h2>
 
