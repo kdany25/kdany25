@@ -16,7 +16,7 @@
 
 -   ⚡ I like 👨‍💻 : Programming | ☕: Coffee | 📖: books <hr>
 
-## Git hub stats
+## GitHub stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kdany25&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats)
 
@@ -56,6 +56,6 @@
 
 ## What I'm doing now
 
-🔭 FRONT-END developer at DIGITALHQ
+🔭 FRONT-END developer at DIGITALHQ(lithuania/Remote)
 
-🌱 Enhancing my full-stack developer skills everyday
+🌱 Enhancing my fullStack developer skills everyday
